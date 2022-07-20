@@ -1,7 +1,5 @@
-# server
-home server for storage and hosting
-
----
+# Summary File
+The goal: build a home server for storage and hosting.
 
 ## Hardware
 
