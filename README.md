@@ -17,12 +17,12 @@ home server for storage and hosting
 ## Software
 * Operating System: Debian
 * Container: Docker, Kubernetes
-** [Virtualization](https://docs.docker.com/desktop/windows/troubleshoot/#virtualization) is off by default for Windows 10
-** Can't tell? Run this in Linux: `egrep -q 'vmx|svm' /proc/cpuinfo && echo yes || echo no`
+  * [Virtualization](https://docs.docker.com/desktop/windows/troubleshoot/#virtualization) is off by default for Windows 10
+  * Can't tell? Run this in Linux: `egrep -q 'vmx|svm' /proc/cpuinfo && echo yes || echo no`
 * Hosting
-** PLEX
+  * PLEX
 * External access
-** Raspberry Pi + PiVPN
+  * Raspberry Pi + PiVPN
 
 ### Resources and Links
 * [r/homeLabSales](https://www.reddit.com/r/homelabsales/)
@@ -33,8 +33,8 @@ home server for storage and hosting
 ### Things to learn
 * all of the above
 * File systems
-* [How did I make this .md file?](https://www.markdownguide.org/cheat-sheet/)
+* [How did I make this .md file?](https://www.markdownguide.org/cheat-sheet/) [This may be better.](https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md)
 * Tom suggestions:
-** **Use Subsonic and servio**
-** Generally: VLC media player is the best 
-** *How to Be a Latin Lover* is a sleeper hit of a movie
+  * **Use Subsonic and servio**
+  * Generally: VLC media player is the best 
+  * *How to Be a Latin Lover* is a sleeper hit of a movie
