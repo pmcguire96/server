@@ -17,12 +17,24 @@ home server for storage and hosting
 ## Software
 * Operating System: Debian
 * Container: Docker, Kubernetes
-* External
+** [Virtualization](https://docs.docker.com/desktop/windows/troubleshoot/#virtualization) is off by default for Windows 10
+** Can't tell? Run this in Linux: `egrep -q 'vmx|svm' /proc/cpuinfo && echo yes || echo no`
+* Hosting
+** PLEX
+* External access
 ** Raspberry Pi + PiVPN
 
 ### Resources and Links
 * [r/homeLabSales](https://www.reddit.com/r/homelabsales/)
 * [Thread: external access](https://www.reddit.com/r/HomeServer/comments/vnx0ar/comment/ie9rsjj/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3)
-* []()
-* []()
-* []()
+* [r/homeServer general and recent guide](https://www.reddit.com/r/HomeServer/comments/vgsibz/tools_and_resources_for_selfhosted_home_server/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+
+
+### Things to learn
+* all of the above
+* File systems
+* [How did I make this .md file?](https://www.markdownguide.org/cheat-sheet/)
+* Tom suggestions:
+** **Use Subsonic and servio**
+** Generally: VLC media player is the best 
+** *How to Be a Latin Lover* is a sleeper hit of a movie
