@@ -20,7 +20,7 @@ The goal: build a home server for storage and hosting.
 * Hosting
   * PLEX
 * External access
-  * Raspberry Pi + PiVPN
+  * Raspberry Pi + PiVPN + Wireguard client while away
 
 ### Resources and Links
 * [r/homeLabSales](https://www.reddit.com/r/homelabsales/)
