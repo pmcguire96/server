@@ -26,7 +26,7 @@ The goal: build a home server for storage and hosting.
 * [r/homeLabSales](https://www.reddit.com/r/homelabsales/)
 * [Thread: external access](https://www.reddit.com/r/HomeServer/comments/vnx0ar/comment/ie9rsjj/?utm_source=share&utm_medium=ios_app&utm_name=iossmf&context=3)
 * [r/homeServer general and recent guide](https://www.reddit.com/r/HomeServer/comments/vgsibz/tools_and_resources_for_selfhosted_home_server/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
-* [Minecraft server in a Docker container guide.] (https://github.com/itzg/docker-minecraft-server)
+* [Minecraft server in a Docker container guide.](https://github.com/itzg/docker-minecraft-server)
 
 
 ### Things to learn
