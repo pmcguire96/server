@@ -40,3 +40,4 @@ The goal: build a home server for storage and hosting.
 
 ### Extra things I needed to do:
 * [Update Windows Powershell to run Docker Desktop for testing](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
+* [Debian from the Microsoft Store???](https://apps.microsoft.com/store/detail/debian/9MSVKQC78PK6?hl=en-us&gl=US)
