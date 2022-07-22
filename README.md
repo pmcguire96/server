@@ -5,9 +5,10 @@ The goal: build a home server for storage and hosting.
 
 | Component | Plan |
 | --- | --- |
-| Motherboard | Motherboard: Asus PRIME B360M-A Micro ATX LGA1151 |
+| Motherboard | Have: Asus PRIME B360M-A Micro ATX LGA1151 |
+| Processor | 4 threads min, 8 threads ideal. Likely: i3 (maybe i5) |
 | Storage | 6TB min, 8TB ideal, all/mostly HDD |
-| RAM | ? I guess we need RAM, doesn't have to be good. See Resources section |
+| RAM | 4GB min, 8GB ideal |
 | Fans | I have like 5 in a box somewhere |
 | Box | ? low priority and easy |
 
