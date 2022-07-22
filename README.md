@@ -37,3 +37,6 @@ The goal: build a home server for storage and hosting.
   * **Use Subsonic and servio**
   * Generally: VLC media player is the best 
   * *How to Be a Latin Lover* is a sleeper hit of a movie
+
+### Extra things I needed to do:
+* [Update Windows Powershell to run Docker Desktop for testing](https://docs.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
