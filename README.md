@@ -6,7 +6,7 @@ The goal: build a home server for storage and hosting.
 | Component | Plan |
 | --- | --- |
 | Motherboard | Have: Asus PRIME B360M-A Micro ATX LGA1151 |
-| Processor | 4 threads min, 8 threads ideal. Likely: i3 (maybe i5) - Buy: (Intel Core i3-10100 3.6 GHz Quad-Core Processor)[https://pcpartpicker.com/product/qtqBD3/intel-core-i3-10100-36-ghz-quad-core-processor-bx8070110100] |
+| Processor | 4 threads min, 8 threads ideal. Likely: i3 (maybe i5) - Buy: [Intel Core i3-10100 3.6 GHz Quad-Core Processor](https://pcpartpicker.com/product/qtqBD3/intel-core-i3-10100-36-ghz-quad-core-processor-bx8070110100) |
 | Storage | 6TB min, 8TB ideal, all/mostly HDD |
 | RAM | 4GB min, 8GB ideal |
 | Fans | I have like 5 in a box somewhere |
