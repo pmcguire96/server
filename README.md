@@ -1,5 +1,5 @@
 # Summary File
-The goal: build a home server for storage and hosting. [Link to PcPartPicker.](https://pcpartpicker.com/list/6fHjBj)
+The goal: build a home server for storage and hosting. [Link to PcPartPicker.](https://pcpartpicker.com/list/n44kW4)
 
 ## Hardware
 
