@@ -1,6 +1,8 @@
 # Summary File
 The goal: build a home server for storage and hosting. 
 * [Link to PcPartPicker.](https://pcpartpicker.com/user/pmcguire96/saved/#view=hT7Bqs)
+* [Docker's guide for Plex servers.](https://hub.docker.com/r/plexinc/pms-docker/)
+* [Some dude's guide copying the above.](https://computingforgeeks.com/how-to-run-plex-media-server-in-docker-containers/)
 
 ## Hardware
 
