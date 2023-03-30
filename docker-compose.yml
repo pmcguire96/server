@@ -24,10 +24,11 @@ services:
       - 32414:32414/udp
     environment:
       - TZ=America/Chicago
-      - PLEX_CLAIM=claim-claim-z56-N4AzsBHfQsucvhB_
-      - ADVERTISE_IP=http://192.168.205.4:32400/
+      - PLEX_CLAIM=claim-vNC3tx_VqpsRsPsScK8y
+      - ADVERTISE_IP=http://10.0.0.147:32400/
     hostname: plexserver.example.com
     volumes:
-      - /plex/database:/config
-      - /plex/transcode:/transcode
-      - /plex/media:/data
+      - ${USERDIR}/docker/plexms:/config
+      - ${USERDIR}/Downloads/plex_tmp:/transcode
+      - /home/patrick/Downloads:/media
+      - ${USERDIR}/docker/shared:/shared
